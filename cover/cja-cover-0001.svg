@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1080"
+   height="810"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="cja-cover-0001.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="315.74634"
+     inkscape:cy="445.56844"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1393"
+     inkscape:window-height="809"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:snap-to-guides="false"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="55.714286,810"
+       id="guide3799" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="0,628.57143"
+       id="guide3801" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1080,662.85714"
+       id="guide3803" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="551.42857,501.42857"
+       id="guide3805" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="194.28571,1.4285714"
+       id="guide3807" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-242.35975)">
+    <rect
+       style="fill:#000000"
+       id="rect2985"
+       width="1162.8572"
+       height="887.14288"
+       x="-39.467785"
+       y="-1087.1776"
+       transform="scale(1,-1)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3809"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(21.428571,368.07404)"><flowRegion
+         id="flowRegion3811"><rect
+           id="rect3813"
+           width="398.57147"
+           height="454.28571"
+           x="607.14288"
+           y="52.857143"
+           style="fill:#ffff00" /></flowRegion><flowPara
+         id="flowPara3815"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lekton;-inkscape-font-specification:Lekton Bold">Conversations </flowPara><flowPara
+         id="flowPara3819"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lekton;-inkscape-font-specification:Lekton Bold">with</flowPara><flowPara
+         id="flowPara3822"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lekton;-inkscape-font-specification:Lekton Bold">Julian Assange</flowPara></flowRoot>  </g>
+</svg>
