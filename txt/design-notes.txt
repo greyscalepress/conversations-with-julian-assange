@@ -1,0 +1,26 @@
+possible fonts for Assange book:
+
+## Sans Serif:
+
+* FreeSans
+* Liberation Sans
+* Nimbus Sans L
+* Sophia Nubian SIL
+* PT Sans
+
+## Serif:
+
+* Linux Libertine
+* Liberation Serif
+* Crimson Text
+* Charter BT / Charis SIL
+* Baskervald ADF
+* Gentium SIL
+* Garamond No8 (URW)
+* PT Serif
+
+*******
+
+used for the first test edition: 
+Adobe Caslon Pro, at 10/15 pt
+
