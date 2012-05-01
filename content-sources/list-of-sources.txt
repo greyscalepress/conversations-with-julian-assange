@@ -1,2 +1,46 @@
-list of sources:
+# List of sources: #
 
+## The Goal is Justice, The Method is Transparency ##
+Interviewer: John Pilger
+Date of publication: December 29, 2010
+URL: http://www.johnpilger.com/videos/julian-assange-in-conversation-with-john-pilger
+URL Video: https://vimeo.com/18269080 (01h:08m:28s)
+URL Transcript: https://docs.google.com/document/d/1hA1CfYALK4l2MHBm1UUOJfTB7Fgt0KBEBloLt8wHEAM/edit?hl=en&pli=1
+Notes: An extended interview with Julian Assange recorded during filming of John Pilger's latest film 'The War You Don't See'.
+License: CC Attribution-NonCommercial-NoDerivs 3.0
+
+***
+
+## "WikiSecrets" Julian Assange Full Interview Footage ## 
+Interviewer: Martin Smith, Frontline/Public Broadcasting Service (PBS)
+Date of publication: May 24, 2011
+Date of recording: April 04, 2011
+URL Video: https://vimeo.com/24188114 (55m:26s)
+URL Transcript: http://wikileaks.org/WikiSecrets-Julian-Assange-Full.html
+License: n.a.
+
+***
+
+## Julian Assange & Slavoj Žižek With Amy Goodman ##
+Interviewer: Amy Goodman (*Democracy Now!*)
+Date of publication: July 05, 2011
+Date of recording: July 02, 2011
+URL: http://www.democracynow.org/blog/2011/7/5/watch_full_video_of_wikileaks_julian_assange_philosopher_slavoj_iek_with_amy_goodman
+URL (video): http://publish.dvlabs.com/democracynow/ipod/wx2011-0702_assange-zizek.mp4 (127m:28s)
+Notes: "In one of his first public events since being held under house arrest, WikiLeaks editor-in-chief Julian Assange appeared in London Saturday for a conversation with Slovenian philosopher Slavoj Žižek, moderated by *Democracy Now!*’s Amy Goodman."
+License: n.a.
+
+***
+## Julian Assange: The Rolling Stone Interview ##
+Interviewer: Michael Hastings (Rolling Stone)
+Date of publication: February 02, 2012
+Date of recording: "a few days before Christmas"
+URL: http://www.rollingstone.com/politics/news/julian-assange-the-rolling-stone-interview-20120118?print=true
+License: n.a.
+
+***
+
+2012-03-31 Transcript: Julian Assange on RadioNational, 29/03/12
+Interviewer: Norman Swan (ABC RadioNational)
+URL (transcript): http://wlcentral.org/node/2525
+URL (audio): http://www.abc.net.au/radionational/programs/latenightlive/the-many-faces-of-julian-assange/3913630
