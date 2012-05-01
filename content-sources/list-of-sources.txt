@@ -1,46 +1,98 @@
 # List of sources: #
 
+## Julian Assange interviewed by Hans Lysglimt ##
+Interviewer: Hans Lysglimt (@lysglimt)
+Date of recording: April 26, 2010
+Date of publication: December 9, 2010
+URL (video): <https://vimeo.com/17641356> (01h:04m:07s)
+URL (transcript): <http://www.farmann.no/?p=1627>
+Notes: Recorded during Oslo Freedom Forum 2010
+
+***
+
 ## The Goal is Justice, The Method is Transparency ##
 Interviewer: John Pilger
 Date of publication: December 29, 2010
-URL: http://www.johnpilger.com/videos/julian-assange-in-conversation-with-john-pilger
-URL Video: https://vimeo.com/18269080 (01h:08m:28s)
-URL Transcript: https://docs.google.com/document/d/1hA1CfYALK4l2MHBm1UUOJfTB7Fgt0KBEBloLt8wHEAM/edit?hl=en&pli=1
-Notes: An extended interview with Julian Assange recorded during filming of John Pilger's latest film 'The War You Don't See'.
+URL: <http://www.johnpilger.com/videos/julian-assange-in-conversation-with-john-pilger>
+URL (video): <https://vimeo.com/18269080> (01h:08m:28s)
+URL (transcript): <https://docs.google.com/document/d/1hA1CfYALK4l2MHBm1UUOJfTB7Fgt0KBEBloLt8wHEAM/edit?hl=en&pli=1>
+Notes: An extended interview with Julian Assange recorded during filming of John Pilger's 
+latest film 'The War You Don't See'.
 License: CC Attribution-NonCommercial-NoDerivs 3.0
+
+***
+
+## In Conversation with Julian Assange, Part I ##
+Interviewer: Hans Ulrich Obrist
+Date of recording: February 27, 2011
+Date of publication: May 23, 2011
+URL (transcript): <http://e-flux.com/journal/view/232>
+URL (alternate): <http://wikileaks.org/In-Conversation-with-Julian.html>
+Notes: Published in e-flux Journal issue #25, May 2011
 
 ***
 
 ## "WikiSecrets" Julian Assange Full Interview Footage ## 
 Interviewer: Martin Smith, Frontline/Public Broadcasting Service (PBS)
-Date of publication: May 24, 2011
 Date of recording: April 04, 2011
-URL Video: https://vimeo.com/24188114 (55m:26s)
-URL Transcript: http://wikileaks.org/WikiSecrets-Julian-Assange-Full.html
-License: n.a.
+Date of publication: May 24, 2011
+URL (video): <https://vimeo.com/24188114> (55m:26s)
+URL (transcript): <http://wikileaks.org/WikiSecrets-Julian-Assange-Full.html>
+
+***
+## Times Now (India) Julian Assange Interview ##
+Interviewer: Arnab Goswami, TIMES NOW's Editor-in-Chief
+Date of recording: February 27, 2011
+Date of publication: April 26, 2011
+URL (video part 1): <http://www.timesnow.tv/The-Julian-Assange-Interview-1/videoshow/4371560.cms> (16m:42s)
+URL (video part 2): <http://www.timesnow.tv/The-Julian-Assange-Interview-2/videoshow/4371561.cms> (18:34s)
+URL (transcript): <http://www.timesnow.tv/The-Julian-Assange-Interview/articleshow/4371553.cms>
 
 ***
 
-## Julian Assange & Slavoj Žižek With Amy Goodman ##
+## In Conversation with Julian Assange, Part II ##
+Interviewers: Hans Ulrich Obrist, Luis Camnitzer, Goldin+Senneby, Martha Rosler, Superflex, Ai Weiwei, Metahaven, Paul Chan
+Date of publication: June 15, 2011
+URL (transcript): <http://www.e-flux.com/journal/view/238>
+URL (alternate): <http://wikileaks.org/In-Conversation-with-Julian,107.html>
+Notes: Published in e-flux Journal issue #26, June 2011
+
+***
+
+## Julian Assange and Slavoj Žižek with Amy Goodman ##
 Interviewer: Amy Goodman (*Democracy Now!*)
-Date of publication: July 05, 2011
 Date of recording: July 02, 2011
-URL: http://www.democracynow.org/blog/2011/7/5/watch_full_video_of_wikileaks_julian_assange_philosopher_slavoj_iek_with_amy_goodman
-URL (video): http://publish.dvlabs.com/democracynow/ipod/wx2011-0702_assange-zizek.mp4 (127m:28s)
-Notes: "In one of his first public events since being held under house arrest, WikiLeaks editor-in-chief Julian Assange appeared in London Saturday for a conversation with Slovenian philosopher Slavoj Žižek, moderated by *Democracy Now!*’s Amy Goodman."
-License: n.a.
+Date of publication: July 05, 2011
+URL (transcript): <http://www.democracynow.org/blog/2011/7/5/watch_full_video_of_wikileaks_julian_assange_philosopher_slavoj_iek_with_amy_goodman>
+URL (video): <http://publish.dvlabs.com/democracynow/ipod/wx2011-0702_assange-zizek.mp4> (127m:28s)
+Notes: "In one of his first public events since being held under house arrest, 
+WikiLeaks editor-in-chief Julian Assange appeared in London Saturday for a conversation 
+with Slovenian philosopher Slavoj Žižek, moderated by *Democracy Now!*’s Amy Goodman."
 
 ***
+
 ## Julian Assange: The Rolling Stone Interview ##
 Interviewer: Michael Hastings (Rolling Stone)
-Date of publication: February 02, 2012
 Date of recording: "a few days before Christmas"
-URL: http://www.rollingstone.com/politics/news/julian-assange-the-rolling-stone-interview-20120118?print=true
-License: n.a.
+Date of publication: February 02, 2012
+URL: <http://www.rollingstone.com/politics/news/julian-assange-the-rolling-stone-interview-20120118?print=true>
 
 ***
 
-2012-03-31 Transcript: Julian Assange on RadioNational, 29/03/12
-Interviewer: Norman Swan (ABC RadioNational)
-URL (transcript): http://wlcentral.org/node/2525
-URL (audio): http://www.abc.net.au/radionational/programs/latenightlive/the-many-faces-of-julian-assange/3913630
+## Julian Assange at Occupy LSX - St Paul's Cathedral ##
+Date of recording: October 15, 2011
+Date of publication: October 15, 2011
+Transcription by: AltArtist <http://www.youtube.com/user/AltArtist>
+URL: <http://www.youtube.com/watch?v=esnypOKpBgs> (3m:51s)
+
+***
+
+## The many faces of Julian Assange ##
+Date of broadcast: 29 March 2012
+Interviewer: Norman Swan (ABC RadioNational, Australia)
+URL (transcript): <http://wlcentral.org/node/2525>
+URL (audio): <http://www.abc.net.au/radionational/programs/latenightlive/the-many-faces-of-julian-assange/3913630>
+Note: "The editor-in-chief of WikiLeaks speaks about his time under house arrest and 
+his aspirations for a seat in the Australian Senate."
+
+***
