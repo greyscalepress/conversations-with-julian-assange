@@ -36,3 +36,5 @@ Thumbs.db
 # Temporary files #
 ###################
 *.autosave
+*(Autosaved).markdown
+*(Autosaved).md
