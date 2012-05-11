@@ -43,6 +43,7 @@
         <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <CHARSTYLE CNAME="Default Bold" CPARENT="Default Character Style" FONTSIZE="11"/>
         <CHARSTYLE CNAME="TEST" FONT="Liberation Serif Regular" LANGUAGE="English"/>
+        <CHARSTYLE CNAME="Speakers" FONT="Inconsolata Medium" FONTSIZE="9" FEATURES="allcaps" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" LANGUAGE="English"/>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="0" PSLevel="0" PDLanguage="0" markOffset="5.36848790092374e-315" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
         <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="Adobe RGB (1998)" ImageP="Adobe RGB (1998)" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
@@ -401,10 +402,8 @@
             <para PARENT="Default Paragraph Style"/>
             <breakframe/>
             <para PARENT="default-style"/>
-            <ITEXT CH="http://www.johnpilger.com/videos/julian-assange-in-conversation-with-john-pilger"/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="currie.jean@gmail.com"/>
-            <para PARENT="Default Paragraph Style"/>
+            <para PARENT="Standard"/>
+            <para PARENT="Standard"/>
             <para PARENT="Standard"/>
             <para PARENT="P5"/>
             <ITEXT FONTSIZE="20" CH="'The Goal is Justice, The Method is Transparency'"/>
@@ -416,10 +415,18 @@
             <para PARENT="P16"/>
             <para PARENT="P16"/>
             <para PARENT="P20"/>
-            <ITEXT CH="John Pilger: You've described WikiLeaks as 'untraceable' and 'uncensorable.' What do you mean by that?"/>
+            <ITEXT CPARENT="Speakers" FONTSIZE="10" CH="J"/>
+            <ITEXT CPARENT="Speakers" CH="ohn "/>
+            <ITEXT CPARENT="Speakers" FONTSIZE="10" CH="P"/>
+            <ITEXT CPARENT="Speakers" CH="ilger:"/>
+            <ITEXT CH=" You've described WikiLeaks as 'untraceable' and 'uncensorable.' What do you mean by that?"/>
             <para PARENT="Default Question"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Julian  Assange: Well, nothing in this world is guaranteed for sure. But within that we have put together an infrastructure using technical and legal techniques to really make it hard to trace people, and to make it hard to take down our material once it's published. To date, we've had a hundred per cent success rate. So that basic idea and intention is comprised of a number of specific ways of doing things. For untraceability, this means people send us material in the post in a particular way, engaging in particular procedures which makes it effectively impossible to trace. Or it means they submit material to us online and bounce the information through dozens of computers around the world, each computer encrypting its transmissions before it connects to another computer, so in this way discarding identities as the information flows around the world. As it flows through different countries, we make sure it flows through Sweden and Belgium, [as] these two countries have specific source protection laws: in Sweden as part of the Swedish constitution, the Press Freedom Act, and in Belgium a specific law dealing with the communications protections between a source and a journalist using any means whatsoever, including electronic transmissions. "/>
+            <ITEXT CPARENT="Speakers" FONTSIZE="10" CH="J"/>
+            <ITEXT CPARENT="Speakers" CH="ulian "/>
+            <ITEXT CPARENT="Speakers" FONTSIZE="10" CH="A"/>
+            <ITEXT CPARENT="Speakers" CH="ssange:"/>
+            <ITEXT CH=" Well, nothing in this world is guaranteed for sure. But within that we have put together an infrastructure using technical and legal techniques to really make it hard to trace people, and to make it hard to take down our material once it's published. To date, we've had a hundred per cent success rate. So that basic idea and intention is comprised of a number of specific ways of doing things. For untraceability, this means people send us material in the post in a particular way, engaging in particular procedures which makes it effectively impossible to trace. Or it means they submit material to us online and bounce the information through dozens of computers around the world, each computer encrypting its transmissions before it connects to another computer, so in this way discarding identities as the information flows around the world. As it flows through different countries, we make sure it flows through Sweden and Belgium, [as] these two countries have specific source protection laws: in Sweden as part of the Swedish constitution, the Press Freedom Act, and in Belgium a specific law dealing with the communications protections between a source and a journalist using any means whatsoever, including electronic transmissions. "/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="For publication, this means housing our servers in many different jurisdictions such that any sort of interim attack on us -- interim injunction -- is not going to take the information down entirely. It may knock it out here, it may knock it out there, but we can put up servers and gain support and respond legally fast enough such that the information is not going to be removed from the public, and that has been what has happened to date."/>
@@ -435,8 +442,8 @@
             <ITEXT CH="JA: It's hard to know how many [have] real value -- I mean, this is in the eyes of the beholder. To us, all information that is true has value eventually. It might only be a very small value to someone somewhere, but getting that information into the historical record, padding out the historical record, provides a sort of richness to every other bit of information in the historical record. Though, if you're talking about things which have clearly changed outcomes of elections, or clearly introduced some law reform, or clearly brought perpetrators to trial, then this is in the hundreds. Somewhere in the hundreds. [As for] clearly changing governments or elections or having ministers deposed, this is maybe half a dozen to ten, something like that."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FCOLOR="Registration" CH="That's the power of information, that's an old truism isn't it? And this is such a modern -- ultra-modern -- form of getting it out, it must frighten a lot of establishments in authority, and especially governments. What governments have been successful in blocking it; in blocking WikiLeaks?"/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT FCOLOR="Registration" CH="JP: That's the power of information, that's an old truism isn't it? And this is such a modern -- ultra-modern -- form of getting it out, it must frighten a lot of establishments in authority, and especially governments. What governments have been successful in blocking it; in blocking WikiLeaks?"/>
+            <para PARENT="Default Question"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="[Of] the governments that have clearly tried to interfere with readers' ability to look at what we publish, and leakers' ability to give us stuff, China is the worst offender. China has the most aggressive, sophisticated interception technology that places itself in between every reader inside China and every information source outside China. And so we have been fighting a running battle to make sure our information can get through. So there's all sorts of ways that Chinese readers can read our site, but the first thing that they try doesn't work -- the first thing you would imagine doing, just going to wikileaks.org, that doesn't work -- but variations on that do work. "/>
             <para PARENT="Default Paragraph Style"/>
@@ -468,16 +475,19 @@
             <ITEXT CH="JP: It's interesting you mention justice there, because I was going to ask you where the idea of WikiLeaks came from, but I mean having... The sense I get from you is that you've been using the technology to mine this information, especially within authority, for quite a long time. But there's really something... There's another element to it. There is an element of justice-seeking about WikiLeaks, it seems to me, almost a moral element."/>
             <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="JA: That's the whole -- yeah -- I won't go as far as saying a crusade, but there is a passion about it that's not just simply transparency, there's something else."/>
+            <ITEXT CH="JA: That's the whole -- yeah -- "/>
+            <para PARENT="Default Paragraph Style"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: I won't go as far as saying a crusade, but there is a passion about it that's not just simply transparency, there's something else."/>
+            <para PARENT="Default Question"/>
+            <para PARENT="Standard"/>
+            <ITEXT CH="JA: No, the goal is justice, the method is transparency. It's important not to confuse the goal and the method. What I observed by looking at how the press worked and how successful activist campaigns work, is: a very cheap and effective way of getting justice was finding information that people were spending effort on concealing, and revealing it. Why do people spend effort on things? Because they believe it's going to benefit them. So when organizations spend effort to conceal something, they are making a statement. They are giving off an economic signal that if that information is revealed it's going to have an effect -- otherwise, why would you spend the work? So in many of those cases the effect that it will have is a push to reform the organization that is concealing some kind of abuse or some plan for some future abuse. By selectively going after that information, as opposed to all the other sorts of information out there [of] which there [is] a vast amount, we are able to selectively bring about just change."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="No, the goal is justice, the method is transparency. It's important not to confuse the goal and the method. What I observed by looking at how the press worked and how successful activist campaigns work, is: a very cheap and effective way of getting justice was finding information that people were spending effort on concealing, and revealing it. Why do people spend effort on things? Because they believe it's going to benefit them. So when organizations spend effort to conceal something, they are making a statement. They are giving off an economic signal that if that information is revealed it's going to have an effect -- otherwise, why would you spend the work? So in many of those cases the effect that it will have is a push to reform the organization that is concealing some kind of abuse or some plan for some future abuse. By selectively going after that information, as opposed to all the other sorts of information out there [of] which there [is] a vast amount, we are able to selectively bring about just change."/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: The arrival of WikiLeaks coincides with a whole... almost a sense of permanent war. The term 'permanent war,' or 'perpetual war,' is constantly used now in the United States. We have two wars running together, and other secret wars. In the information that you have revealed on WikiLeaks about these so-called endless wars, what has been the real high-value material that has come out that has given people -- ordinary people if you like -- the kind of information upon which they can then act?"/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="The arrival of WikiLeaks coincides with a whole... almost a sense of permanent war. The term 'permanent war,' or 'perpetual war,' is constantly used now in the United States. We have two wars running together, and other secret wars. In the information that you have revealed on WikiLeaks about these so-called endless wars, what has been the real high-value material that has come out that has given people -- ordinary people if you like -- the kind of information upon which they can then act?"/>
-            <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Standard"/>
-            <ITEXT CH="Looking at the enormous quantity and diversity of these military or intelligence apparatus inside the documents, what I see is a vast, sprawling estate: what we would traditionally call the 'military-intelligence complex' or the 'military industrial complex.' And that this sprawling industrial estate is growing, becoming more and more secretive, becoming more and more uncontrolled. This is not a sophisticated conspiracy controlled at the top, this is a vast movement of self-interest with thousands and thousands of players all working together and against each other to produce an end result, which is Iraq and Afghanistan, and Columbia, and keeping that going. "/>
+            <ITEXT CH="JA: Looking at the enormous quantity and diversity of these military or intelligence apparatus inside the documents, what I see is a vast, sprawling estate: what we would traditionally call the 'military-intelligence complex' or the 'military industrial complex.' And that this sprawling industrial estate is growing, becoming more and more secretive, becoming more and more uncontrolled. This is not a sophisticated conspiracy controlled at the top, this is a vast movement of self-interest with thousands and thousands of players all working together and against each other to produce an end result, which is Iraq and Afghanistan, and Columbia, and keeping that going. "/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
             <ITEXT CH="So what I see is: we often deal with tax havens, and people hiding assets and transferring money through offshore tax havens. I see some really quite remarkable similarities: Guantanimo is used for laundering people to an offshore haven which doesn't follow the rule of law that we would normally expect. A tax haven is used for hiding people's assets, laundering people's assets through a jurisdiction which doesn't follow the rule of law that we would expect in our home countries. Similarly, Iraq and Afghanistan -- and Columbia -- are used to wash money out of the U.S. tax base and back. "/>
@@ -534,58 +544,58 @@
             <ITEXT CH="JP: Talk about the one soldier who... His name was McCord, is that right? Yeah."/>
             <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="Yeah."/>
+            <ITEXT CH="JA: Yeah."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
             <ITEXT CH="JP: One of the soldiers on the ground, who was one of those you see arriving at the van."/>
             <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="Ethan McCord --"/>
+            <ITEXT CH="JA: Ethan McCord --"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
             <ITEXT CH="JP: Ethan McCord."/>
             <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="... is a soldier, about thirty years old. [McCord] was in the ground unit that was being serviced, if you like, by the Apaches in the sky. They marched in and arrived where the bodies were and the [shot]-up van. And Ethan heard the child crying in the van hysterically and pulled out the girl. [He] saw the boy and thought the boy was dead, took the child away from the van to a sort of intermediary location and then went to look for anyone else in the van, and just saw the boy was just breathing and pulled him out. So he ended up being covered with the blood of these children. "/>
+            <ITEXT CH="JA: ... is a soldier, about thirty years old. [McCord] was in the ground unit that was being serviced, if you like, by the Apaches in the sky. They marched in and arrived where the bodies were and the [shot]-up van. And Ethan heard the child crying in the van hysterically and pulled out the girl. [He] saw the boy and thought the boy was dead, took the child away from the van to a sort of intermediary location and then went to look for anyone else in the van, and just saw the boy was just breathing and pulled him out. So he ended up being covered with the blood of these children. "/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
             <ITEXT CH="He was quite disturbed by this event, and he got in contact with us immediately after the video was published, and he produced a statement (or a letter of apology) to this family. Of course, he wasn't involved directly with killing them, but indirectly it was his unit that was being serviced by this Apache, and indirectly he was part of the U.S. Army in Iraq. He says that he complained to his superiors about this event and they just told him to stop being a pussy and to suck it up. He'd tried quite hard to draw attention to what happened -- to get the mainstream press interested in it -- within two days of us revealing the material, while it was still newsworthy. There can't be any excuse in the U.S. press to [say], “Well, the moment had passed, and therefore, well, the story is interesting but the moment had passed,” because at the very same time that he was trying to get his story across, editorial space was being given to military apologists, who were just [saying], “You know, war is hard, and it's difficult for soldiers --”"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="And, “These things happen.”"/>
+            <ITEXT CH="JP: And, “These things happen.”"/>
+            <para PARENT="Default Question"/>
+            <para PARENT="Standard"/>
+            <ITEXT CH="JA: “-- These things happen.”"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="“-- These things happen.”"/>
+            <ITEXT CH="JP: And, “You didn't show the full context,” and, uh..."/>
+            <para PARENT="Default Question"/>
+            <para PARENT="Standard"/>
+            <ITEXT CH="JA: That's right."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="And, “You didn't show the full context,” and, uh..."/>
+            <ITEXT CH="JP: “There was shooting that morning...” So on and so on."/>
+            <para PARENT="Default Question"/>
+            <para PARENT="Standard"/>
+            <ITEXT CH="JA: Yeah. And, you now, “It's difficult for soldiers psychologically,” whatever. Not new facts, whereas this soldier had new facts about what had happened then and an incident that happened immediately after. "/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="That's right."/>
+            <ITEXT CH="JP: What was interesting about him [was] he also had an overview, and he described what had happened that day as a common occurrence, and he talked about... If there was any kind of threat -- or percieved threat -- to American soldiers, they would let everybody have it. He said, “Let all the motherfuckers have it at three hundred and sixty degrees.”"/>
+            <para PARENT="Default Question"/>
+            <para PARENT="Standard"/>
+            <ITEXT CH="JA: That's right. If there was an IED -- "/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="“There was shooting that morning...” So on and so on."/>
+            <ITEXT CH="JP: If there's an IED..."/>
+            <para PARENT="Default Question"/>
+            <para PARENT="Standard"/>
+            <ITEXT CH="JA: He was instructed by his commanding officer that if an IED goes off anywhere in the street, then three hundred and sixty degree rotational fire, and just take out everyone. Women, children, everyone gets it, I guess to try and act as a disincentive for the local population for supporting any IED placement. And that's what happened. It's not that he was told that and it didn't happen, but rather, that happened, and he was instructed. So he and some other soldiers in his unit who didn't like that instruction apparently fired high when an IED went off and they were instructed to fire [by] those orders."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="Yeah. And, you now, “It's difficult for soldiers psychologically,” whatever. Not new facts, whereas this soldier had new facts about what had happened then and an incident that happened immediately after. "/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: What do the leaks around this issue tell you about whether this particular incident was, as the U.S. government claims, an abberation or not?"/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="What was interesting about him [was] he also had an overview, and he described what had happened that day as a common occurrence, and he talked about... If there was any kind of threat -- or percieved threat -- to American soldiers, they would let everybody have it. He said, “Let all the motherfuckers have it at three hundred and sixty degrees.”"/>
-            <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Standard"/>
-            <ITEXT CH="That's right. If there was an IED -- "/>
-            <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Standard"/>
-            <ITEXT CH="If there's an IED..."/>
-            <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Standard"/>
-            <ITEXT CH="He was instructed by his commanding officer that if an IED goes off anywhere in the street, then three hundred and sixty degree rotational fire, and just take out everyone. Women, children, everyone gets it, I guess to try and act as a disincentive for the local population for supporting any IED placement. And that's what happened. It's not that he was told that and it didn't happen, but rather, that happened, and he was instructed. So he and some other soldiers in his unit who didn't like that instruction apparently fired high when an IED went off and they were instructed to fire [by] those orders."/>
-            <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Standard"/>
-            <ITEXT CH="What do the leaks around this issue tell you about whether this particular incident was, as the U.S. government claims, an abberation or not?"/>
-            <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Standard"/>
-            <ITEXT CH="We've seen in other leaks a vast number of these types of incidents, and when I say “these types,” what I mean is “indiscriminate attacks on civilians.” Not deliberate attacks on civilians, it's important to make clear, but just not giving a damn. Not caring whether they are or whether they aren't. Sometimes, occasional deliberate attacks on civilians but those do seem to be rare in the record. But just, you know, “Maybe they are, maybe they're not, but we want to shoot, and so go for it.”"/>
+            <ITEXT CH="JA: We've seen in other leaks a vast number of these types of incidents, and when I say “these types,” what I mean is “indiscriminate attacks on civilians.” Not deliberate attacks on civilians, it's important to make clear, but just not giving a damn. Not caring whether they are or whether they aren't. Sometimes, occasional deliberate attacks on civilians but those do seem to be rare in the record. But just, you know, “Maybe they are, maybe they're not, but we want to shoot, and so go for it.”"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
             <ITEXT CH="Ethan McCord and one of his fellow soldiers who were in that ground unit, they say that they were surprised it was this video that leaked because there were many, many worse incidences and this was a sort of everyday occurence. It's not every day that journalists are killed, although I did read the statistic that there have been seven Reuters journalists killed in Baghdad and all of them were killed by U.S. military fire. "/>
@@ -594,10 +604,10 @@
             <ITEXT CH="But probably the only reason we are talking about this now is because there were two journalists there, and they were sort of trackable, and Reuters put in a freedom of information act request. Whereas if they weren't journalists, if they were just regular citizens of Baghdad, we wouldn't even be talking about it. The material just would have been buried. There would have been no internal investigation at all, which prompted the eventual leaking."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="So this is [the] tip of an awful iceberg in many ways, isn't it? Because a war like Iraq and a war like Afghanistan, if not directed at civilians, civilians become the casualties. They're civilian's wars in a sense, aren't they?"/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: So this is [the] tip of an awful iceberg in many ways, isn't it? Because a war like Iraq and a war like Afghanistan, if not directed at civilians, civilians become the casualties. They're civilian's wars in a sense, aren't they?"/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="No... There's an old statement that absolute power corrupts absolutely. And you can see from this video that when you're in an Apache with a zoom lens that can show you people's faces from one mile up in the sky, and you have a thirty millimetre cannon, and you shoot, and there's no effect against you -- you can't even hear the screams -- and when you get back to base there's no discipline procedures against you; when this happens every day for days, y'know for a year, of course it's incredibly corrupting. These people are shot in the same way that an everyday person walks over ants on the street, because they just seem to be irrelevant, they don't complain, there's no discipline procedure. And so, as a war goes along, civilians do become just something to get rid of because they're annoying, or [soldiers] have no concern over [them]. "/>
+            <ITEXT CH="JA: No... There's an old statement that absolute power corrupts absolutely. And you can see from this video that when you're in an Apache with a zoom lens that can show you people's faces from one mile up in the sky, and you have a thirty millimetre cannon, and you shoot, and there's no effect against you -- you can't even hear the screams -- and when you get back to base there's no discipline procedures against you; when this happens every day for days, y'know for a year, of course it's incredibly corrupting. These people are shot in the same way that an everyday person walks over ants on the street, because they just seem to be irrelevant, they don't complain, there's no discipline procedure. And so, as a war goes along, civilians do become just something to get rid of because they're annoying, or [soldiers] have no concern over [them]. "/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
             <ITEXT CH="There are -- some of these civilian massacre cases do achieve prominence, and then do find genuine concern by some of the higher generals or by other groups looking into them, but that's not what we see for the everyday cases of civilian kills. And we have acquired records of six years' worth of civilian kills for Iraq and Afghanistan. Not just the big ones, where there's a hundred people killed, or twenty people killed, where there is some investigation or publicity sometimes, but rather this sort of everyday [incident], where a man might be -- as in one case in Afghanistan, a man is seen to be running away after U.S. soldiers approach. And they try and shoot him, the guns jam, he's running toward the village, so what do they do? Guns have jammed, so they get the artillery and they shell him. Just one man. They launch shells toward him, they overshoot, hit the village and they kill a five year old boy. "/>
@@ -624,59 +634,59 @@
             <ITEXT CH="And for Iraq, this is four hundred and ninety thousand reports over the same period -- "/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="Four hundred and ninety thousand."/>
+            <ITEXT CH="JP: Four hundred and ninety thousand."/>
+            <para PARENT="Default Question"/>
+            <para PARENT="Standard"/>
+            <ITEXT CH="JA: Four hundred and ninety thousand over the same period of time."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="Four hundred and ninety thousand over the same period of time."/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: That's a hell of a leak."/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="That's a hell of a leak."/>
-            <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Standard"/>
-            <ITEXT CH="Yeah, that's a really extraordinary thing. This is the most finely detailed history of war that has ever been disclosed, besides times, locations, kill counts (although the kill counts are sometimes massaged, but kill counts), people detained, what happened from the U.S. troops' point of view. They're not reliable narrators, but you can't hide everything when you're producing so much detail so quickly. And I mean, it's just extraordinary."/>
+            <ITEXT CH="JA: Yeah, that's a really extraordinary thing. This is the most finely detailed history of war that has ever been disclosed, besides times, locations, kill counts (although the kill counts are sometimes massaged, but kill counts), people detained, what happened from the U.S. troops' point of view. They're not reliable narrators, but you can't hide everything when you're producing so much detail so quickly. And I mean, it's just extraordinary."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
             <ITEXT CH="So we wrote a computer program to add up all these kill counts, and for Afghanistan this is in the hundreds of thousands."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="Hundreds of thousands."/>
+            <ITEXT CH="JP: Hundreds of thousands."/>
+            <para PARENT="Default Question"/>
+            <para PARENT="Standard"/>
+            <ITEXT CH="JA: Hundreds of thousands. It's important to remember this wasn't just an aggregate figure of a hundred thousand. This “hundreds of thousands” is a result of adding up all the individual cases which are documented. Of the individual cases, the highest kill count was four hundred and eighty or so, related to a stampede that occured on a bridge."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="Hundreds of thousands. It's important to remember this wasn't just an aggregate figure of a hundred thousand. This “hundreds of thousands” is a result of adding up all the individual cases which are documented. Of the individual cases, the highest kill count was four hundred and eighty or so, related to a stampede that occured on a bridge."/>
+            <ITEXT CH="JP: Four hundred and eighty people were killed in --"/>
+            <para PARENT="Default Question"/>
+            <para PARENT="Standard"/>
+            <ITEXT CH="JA: Checking this in the news reports, it seems like it was more like a thousand people were killed, but in the internal U.S. military reporting it was four hundred and eighty people who were killed. But that's the single highest event, that's a bit unusual. The next one down was a U.S. sweeping operation that killed about three hundred. Some of these events are, on the surface, disturbing. So the highest kill count event in Afghanistan killed one hundred and eighty-one people in a U.S. operation led by Canada, called Operation Medusa, in December 2006. And [with] that kill count of a hundred and eighty-one, there was only one wounded."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="Four hundred and eighty people were killed in --"/>
+            <ITEXT CH="JP: One wounded."/>
+            <para PARENT="Default Question"/>
+            <para PARENT="Standard"/>
+            <ITEXT CH="JA: One wounded, it says no civilians were killed, and there were no captures. If we then look at what was a sort of military hardware deployment (it speaks about some ground force sweep, and so on, a couple people being killed there), nearly everyone who was killed was killed by an AC-130 gun ship. An AC-130 is a big, big cargo plane which has been converted to have -- to be decked out with machine guns and tank guns, and ..."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="Checking this in the news reports, it seems like it was more like a thousand people were killed, but in the internal U.S. military reporting it was four hundred and eighty people who were killed. But that's the single highest event, that's a bit unusual. The next one down was a U.S. sweeping operation that killed about three hundred. Some of these events are, on the surface, disturbing. So the highest kill count event in Afghanistan killed one hundred and eighty-one people in a U.S. operation led by Canada, called Operation Medusa, in December 2006. And [with] that kill count of a hundred and eighty-one, there was only one wounded."/>
+            <ITEXT CH="JP: So, saturation fire."/>
+            <para PARENT="Default Question"/>
+            <para PARENT="Standard"/>
+            <ITEXT CH="JA: Yeah. From high up, but it's a plane that's moving. It's not exact, and in the course of three hours sixty-two people are described as being killed by this, and then there's also an unexplained missing ninety or so people who have -- How they are killed is not established in the report, but they are listed has having been killed in two places."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="One wounded."/>
+            <ITEXT CH="JP: And do they call these all Taliban, “the enemy?”"/>
+            <para PARENT="Default Question"/>
+            <para PARENT="Standard"/>
+            <ITEXT CH="JA: Yep. They're all called “the enemy.” Looking at that Operation Medusa kill, that broader operation -- quite interesting, I mean, I hadn't heard about this before. This was the biggest (according to the Canadian military), the biggest operation in Afghanistan, post-invasion. But Afghanistan wasn't on people's radar in December 2006 -- Iraq was. But during that week they say they killed about a thousand Taliban, but actually, what happened is that this was in a region of about 20k out of Kandahar, where there's lots of vineyards, and the government installed by U.S. forces post-2001-invasion had become extremely corrupt and the local people had grown to support the Taliban in a sort of united effort to clean out this government. And then when U.S. and Canadian -- and well, when ISAF, sort of allied forces --"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="One wounded, it says no civilians were killed, and there were no captures. If we then look at what was a sort of military hardware deployment (it speaks about some ground force sweep, and so on, a couple people being killed there), nearly everyone who was killed was killed by an AC-130 gun ship. An AC-130 is a big, big cargo plane which has been converted to have -- to be decked out with machine guns and tank guns, and ..."/>
-            <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Standard"/>
-            <ITEXT CH="So, saturation fire."/>
-            <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Standard"/>
-            <ITEXT CH="Yeah. From high up, but it's a plane that's moving. It's not exact, and in the course of three hours sixty-two people are described as being killed by this, and then there's also an unexplained missing ninety or so people who have -- How they are killed is not established in the report, but they are listed has having been killed in two places."/>
-            <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Standard"/>
-            <ITEXT CH="And do they call these all Taliban, “the enemy?”"/>
-            <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Standard"/>
-            <ITEXT CH="Yep. They're all called “the enemy.” Looking at that Operation Medusa kill, that broader operation -- quite interesting, I mean, I hadn't heard about this before. This was the biggest (according to the Canadian military), the biggest operation in Afghanistan, post-invasion. But Afghanistan wasn't on people's radar in December 2006 -- Iraq was. But during that week they say they killed about a thousand Taliban, but actually, what happened is that this was in a region of about 20k out of Kandahar, where there's lots of vineyards, and the government installed by U.S. forces post-2001-invasion had become extremely corrupt and the local people had grown to support the Taliban in a sort of united effort to clean out this government. And then when U.S. and Canadian -- and well, when ISAF, sort of allied forces --"/>
-            <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Standard"/>
-            <ITEXT CH="NATO."/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: NATO."/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="...the Western forces came in, these people, not just Taliban (and there do seem to have been Taliban there) but the local population was supportive. So the men in the vineyards, the workers in the vineyards were killed along with these others. And it seems to -- if you read the press reports, at times some press said it's fifty-fifty (fifty percent Taliban, fifty percent local people; it's pretty hard to guage from the on-the-ground reporting), but we look at events like [what] this leaked document shows and we see something pretty disturbing: a lot of people killed in very little time using indiscriminate fire, no investigation into a hundred and eighty-one people being killed, the biggest kill in a single event in Afghanistan post-2001. It doesn't smell right."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="I suppose those doing the killing, who -- I'm assuming they regard everybody as the Taliban or insurgents, so who isn't? Children."/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: I suppose those doing the killing, who -- I'm assuming they regard everybody as the Taliban or insurgents, so who isn't? Children."/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="The pattern we see in Iraq and Afghanistan, the very clear pattern -- and it's not just me who sees this but other war reporters -- is that anyone who is a man, and dead, is an insurgent. That's how they are always listed on the reports, and it's only after some investigation, usually stimulated by the press or by competing military reporting on it, then there's a sort of pull-down from that number."/>
             <para PARENT="Default Paragraph Style"/>
@@ -690,38 +700,38 @@
             <ITEXT CH="Yet, when we look at the internal military reporting by the United States, what we see is, in these leaked reports, “fifty-seven insurgents killed.” When we look at the internal military reporting for Collateral Murder, this Iraq massacre which included two Reuters journalists that happened in July 2007, what we see is “fourteen people killed” when there were actually between eighteen and twenty-six people killed. And all of them “insurgents,” except for [the] two children who were wounded."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="So even the Reuters cameramen were..."/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: So even the Reuters cameramen were..."/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="Listed as insurgents."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="...as insurgents."/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: ...as insurgents."/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="Yeah. Until Reuters came in contact and said, “Hey, where's our cameramen?”"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="For you to receive that volume of documentation suggests that there must be something of a rebellion going on within the system."/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: For you to receive that volume of documentation suggests that there must be something of a rebellion going on within the system."/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="Yes. I mean, it's the one hopeful thing, is in fact that there are good people in the U.S. military. There are good people in military intelligence organizations, and some of those people have had enough, and so they provide us with evidence of abuse. I mean that's um, it is another way of being a conscientious objector. In fact, arguably a far more powerful way of objecting to the war."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="And what about among journalists? Is there a rebellion amongst journalists? You said some time ago I think, that journalists need to respect their readers and viewers. How do journalists by and large react to WikiLeaks? Of course some are very impressed, obviously, but you've described for example the reaction in the United States, with CNN, NBC and CBS and so on with journalists being used to justify... So how do journalists... How are journalists dealing with the arrival of WikiLeaks?"/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: And what about among journalists? Is there a rebellion amongst journalists? You said some time ago I think, that journalists need to respect their readers and viewers. How do journalists by and large react to WikiLeaks? Of course some are very impressed, obviously, but you've described for example the reaction in the United States, with CNN, NBC and CBS and so on with journalists being used to justify... So how do journalists... How are journalists dealing with the arrival of WikiLeaks?"/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="A very interesting mixture. So, you know, it seems like all the good journalists support us and all the bad ones don't, but of course, maybe that's just my interpretation based upon their support."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="Probably a good interpretation."/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: Probably a good interpretation."/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="But it does seem that the more accomplished and independent the journalist the more they are likely to support us, the more they are able, in fact, to. The more established they are as an independent journalist, with their own independent reputation, they can choose to take from one newspaper to another, they can choose to take from one network to another. If they're staffed around, it seems the more they're able to state their support for us, whereas the journalists who are not in that position of freedom, that are more part of the group or the company -- that they're company men -- they're more likely to be critical."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="You're very -- WikiLeaks is very threatening to systems. And the BBC is a system. The network making this documentary, ITV, is a system. "/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: You're very -- WikiLeaks is very threatening to systems. And the BBC is a system. The network making this documentary, ITV, is a system. "/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="Individual journalists, as opposed to the organizations that they're working [for], are supportive of us in that they may be able to collaborate with us or use our material, and that can be extremely important material. Some people have an ability to see that, and they want to help and sort of get that material out to the public, or bring extra angles in on it, or use their existing understanding to help flesh it out. So they see us as colleagues. "/>
             <para PARENT="Default Paragraph Style"/>
@@ -732,26 +742,26 @@
             <ITEXT CH="And then there's another group that appreciates what we're doing because we're drawing the fire. We are the free press vanguard, we are the sort of defender of whistleblowers, and we move that whole field further out. And that creates a vacuum behind us into which these people can come which doesn't have any fire because we're attracting the opposition by pushing the envelope. That's quite nice, because over the last four years we have been changing the standard, so to some degree we are now the status quo. We are something that exists, there's an economic and political and social niche --"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="You're the mainstream."/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: You're the mainstream."/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="I wouldn't go quite that far, but there's an understanding -- a political and economic understanding -- that there is a place for WikiLeaks in this world, and that if we were to disappear, that would be something new."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="Yeah, it's quite interesting that... how you've shifted in. I mean here, the Guardian media pages every year list the hundred most important media people. You've probably seen this. This year, they've included you."/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: Yeah, it's quite interesting that... how you've shifted in. I mean here, the Guardian media pages every year list the hundred most important media people. You've probably seen this. This year, they've included you."/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="Yeah, this year we're fifty-eighth, but last year we weren't in there at all. That's quite an improvement."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="The fact that you're in there is interesting."/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: The fact that you're in there is interesting."/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="Very interesting. I mean it's true we do have some influence, but I think it's also the case that those people in the Guardian who have put that list together -- I'm sure it's a totally accurate list -- but I'm sure that's also a desire. There's a desire for us to be leading in that way, and they want to support us and see that we do something beneficial for them, which is to open up this space."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="I mean there's clearly a big shift underway, and we've talked about this already, but the shift is from traditional, so-called mainstream journalists -- journalism -- to what has become known as citizen journalism. Is that a very significant shift now? Is the whole nature of journalism likely to change because of this trend?"/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: I mean there's clearly a big shift underway, and we've talked about this already, but the shift is from traditional, so-called mainstream journalists -- journalism -- to what has become known as citizen journalism. Is that a very significant shift now? Is the whole nature of journalism likely to change because of this trend?"/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="It is changing, and the changes will be dramatic. But I'm not one to sell citizen journalism as being at the moment a great answer yet, because what I see in the alternative press is very little journalism going on. In fact, what I see is people taking the front page of the New York Times, using that as their issue of the day, and saying, “I don't agree with it,” or, “I do agree with it.” Our idea is that our material would spark tremendous amounts of citizen journalism, because all these people who write opinion pieces on blogs and so on, when given the complaint, “Why aren't you doing any real journalism? Why aren't you going and researching or investigating something?” They say, “Well, it takes a long time to build up sources, so we don't have anything new to talk about, so we have to just analyze what the mainstream press are doing.” But we have produced hundreds of thousands, or millions of pages of new source material that these people could analyze, and could report, and it's extremely rare that they do. "/>
             <para PARENT="Default Paragraph Style"/>
@@ -765,32 +775,32 @@
             <ITEXT CH="The first person to publish was a friend, Shaun Waterman at UPI, who was the national security reporter, and then another five professional press journalists, not all of them full-time journalists, some working for the Asian times half time and working for the Cato Institute half time as an example of one of these five. But the bloggers, the political activists of all kinds in fact, didn't do anything with this material."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="That's interesting. So real information can almost paralyze, as if they don't know what to do with it."/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: That's interesting. So real information can almost paralyze, as if they don't know what to do with it."/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="Over time, we are seeing that we're sort of training people up a bit, so it's getting better over time. People are starting to become used to this military information and nomenclature; understanding that when we release it, [it] is definitely true. But yeah, a very surprising effect, I mean, that report as an example -- it looked good. It wasn't just that it had important details, it wasn't too long. It was only thirty pages."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="It was accessible."/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: It was accessible."/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="It was accessible. It had a nice map of Fallujah on the front, split into tribal regions. "/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="And no one picked it up."/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: And no one picked it up."/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="No one picked it up, and eventually the professional press picked it up."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="You're making some very serious enemies, not least of all a government engaged in two rapacious wars. How do you deal with what must be a sense of that danger? Do you ignore it?"/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: You're making some very serious enemies, not least of all a government engaged in two rapacious wars. How do you deal with what must be a sense of that danger? Do you ignore it?"/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="Not at all. "/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="...Or do you accomodate it within yourself?"/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: ...Or do you accomodate it within yourself?"/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="I think a lot of people say that we're very courageous in our work, and I wouldn't reject that label entirely -- we're not uncourageous -- but to me, courage is not the absence of fear at all. Courage is the intellectual mastery of fear via understanding. So we just understand what the risks are and having understood them we're able to navigate a path through them."/>
             <para PARENT="Default Paragraph Style"/>
@@ -798,38 +808,38 @@
             <ITEXT CH="One of my good friends who's a reporter for the Standard newspaper in Kenya (the investigative head): whenever he is about to publish a big story exposing the Kenyan government (and the newspaper was raided by the police a couple of years ago), he publishes, he goes to Tanzania, he waits to see what happens, eventually it becomes clear what's going to happen and he comes back -- if he doesn't understand the risk. If he understands the risk and sees that it's relatively low-risk then he publishes and he stays in Nairobi. And so that's how we work, is by --"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="What do you do? Because you're, I would have thought, unlikely to go to the United States at the moment."/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: What do you do? Because you're, I would have thought, unlikely to go to the United States at the moment."/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="In July of 2010, I had three speaking engagements in the United States, including one at the Investigative Reporters and Editors Conference in Las Vegas. A panel there, with Scott Risen, the New York Times national security reporter, and Valerie Plame was also in the panel. I cancelled my visit to the United States because of some information that was coming out from our sources within the U.S. administration saying that it would be a danger for me to go to the United States."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="In the Pentagon recently, I asked the Assistant Secretary of Defense, Brian Whitman, this: I said, “Can you, as a senior official of the United States Government, can you give a guarantee that the editors of WikiLeaks, and the Editor in Chief himself who is not American,” that's you, “are not in danger? That they themselves will not be subjected to the kind of hunt that we've read about in the media?” And his reply in a nutshell: “Well first of all, it's not my position to give guarantees on anything.” How do you feel about that?"/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: In the Pentagon recently, I asked the Assistant Secretary of Defense, Brian Whitman, this: I said, “Can you, as a senior official of the United States Government, can you give a guarantee that the editors of WikiLeaks, and the Editor in Chief himself who is not American,” that's you, “are not in danger? That they themselves will not be subjected to the kind of hunt that we've read about in the media?” And his reply in a nutshell: “Well first of all, it's not my position to give guarantees on anything.” How do you feel about that?"/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="Well, it sounds like keeping all options on the table, to me. And we -- "/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="But they're not good options, are they? I don't want to dramatize this too much, but you're in sort of a unique position in a way, aren't you? I don't think there's been a WikiLeaks before."/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: But they're not good options, are they? I don't want to dramatize this too much, but you're in sort of a unique position in a way, aren't you? I don't think there's been a WikiLeaks before."/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="There hasn't, and they don't know how to deal with us, and there's no -- I mean, something that has preserved us is that in the United States or any other county, there is no department to deal with WikiLeaks. Most of those government departments are split up into regional focuses. So there's no sort of specialist in dealing with what we are or understanding what we are, or understanding how to deal with us. But there are serious statements coming out of the U.S. administration under the surface that imply that they would not follow the rule of law. That's a --"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="They would not follow the rule of law."/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: They would not follow the rule of law."/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="Implied that they would not follow the rule of law, and that is a serious matter."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="There's a certain record there, yeah."/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: There's a certain record there, yeah."/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="And there were senior figures like Sy Hersh giving me warnings (that's a famous U.S. national security reporter), and so we listened to those warnings and took appropriate security precautions.  That said, I think our political position in countries like the United Kingdom, Australia, Iceland, Germany, and other countries with less strength, is such that it is impossible to -- I mean arrest me here in the United Kingdom. Politically, it is just not possible to do that. While some intermediary beauraucrat might do it and not understand the political risk, eventually the matter would be pushed up high enough and people with a better understanding of politics will go, “Do not do that, that's just going to create a terrible political dilemma for everyone concerned. Don't do it.”"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="I note your preemptive strike in response when you posted, on WikiLeaks, a leaked Pentagon document that says that the U.S. intelligence intends to destroy WikiLeaks, and the words used are that they wanted to “fatally marginalize” the organization. "/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: I note your preemptive strike in response when you posted, on WikiLeaks, a leaked Pentagon document that says that the U.S. intelligence intends to destroy WikiLeaks, and the words used are that they wanted to “fatally marginalize” the organization. "/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="And “destroy” our “centre of gravity,” by using sort of military language, which is what they say is the trust that sources and the public have in us. If they can destroy that, they can stop U.S. military whistleblowers coming to us. They say the word “whistleblower.” They're not talking about -- or at least not just talking about -- unauthorized disclosures, which may or may not be revealing abuse. They are saying “whistleblowers:” people who reveal abuse. "/>
             <para PARENT="Default Paragraph Style"/>
@@ -840,32 +850,32 @@
             <ITEXT CH="So we released that report which was written in 2008, and then we released [the Pentagon document] earlier in 2010, maybe as a preemptive strike. It's putting them on notice. And by us releasing that, there is an understanding, you know: that didn't come from nowhere. That report clearly came from some intelligence insiders in the United States. We have support inside the U.S. intelligence community. So it is difficult and dangerous for people within the U.S. intelligence community to try and investigate us because there will be dissidents that will step forward and reveal that. So they have to tread very carefully. "/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="What happens when you return to Australia, your homeland? Because when you went back recently, they took away your passport, saying that it looked worn, and something... you perhaps needed a new one. But miraculously, you didn't need a new one. They gave it back to you some time later."/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: What happens when you return to Australia, your homeland? Because when you went back recently, they took away your passport, saying that it looked worn, and something... you perhaps needed a new one. But miraculously, you didn't need a new one. They gave it back to you some time later."/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="Yeah, and just a little bit after that they also searched my bags and made references to the Ministry of Foreign Affairs and Australian Federal Police -- specific information that had to have come off their database file. So it's quite interesting: in Australia, I mean, there is a sort of patriotism that is proud of WikiLeaks and proud of me, and that is defensive, and as a result there have been very positive articles in the Fairfax press and in The Australian. I'm told by my -- politically connected people in Australia that it would be extremely difficult to arrest me, detain me or deport me, or our other volunteers in Australia. That said, there has been extensive spying on our people in that country, which I assume has been agreed to in some way by the Australian government and we have some information about the Australian government being involved in that."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="Is it hard after a while to keep these shadows at bay? Or do you get used to them? You must say to yourself, “Look, I can't become paranoid about this,” you know, “I'm going to live a normal life.” Is that difficult?"/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: Is it hard after a while to keep these shadows at bay? Or do you get used to them? You must say to yourself, “Look, I can't become paranoid about this,” you know, “I'm going to live a normal life.” Is that difficult?"/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="It's become pretty easy. I mean, we have some security precautions, we have some security procedures, we have different people doing different things in different places depending on their need for security. For me, it doesn't matter if I'm followed around, provided I'm not meeting with a source."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="Quite a few BBC journalists have got in touch with me and want to talk about the pressure within the BBC -- in other words, they represent the kind of rebellion that you're describing. What would you say to people like them in an institution like the BBC or indeed journalists who are led by their conscience or just by their professional integrity within certain organizations? What would you say to them? What can they do?"/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: Quite a few BBC journalists have got in touch with me and want to talk about the pressure within the BBC -- in other words, they represent the kind of rebellion that you're describing. What would you say to people like them in an institution like the BBC or indeed journalists who are led by their conscience or just by their professional integrity within certain organizations? What would you say to them? What can they do?"/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="When your stories are killed, get them to us and we'll publish them. That's the simplest one. Or when the primary source material is suppressed, get [it] to us. You don't have to leave the institution, you can work on the inside and on the outside and keep this line between the two invisible."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="So what they can't get on-air, and what they can't get in the paper, give to WikiLeaks."/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: So what they can't get on-air, and what they can't get in the paper, give to WikiLeaks."/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="Yeah. Unfortunately that doesn't -- there's not so much career motivation to do that 'cause you [can't] stick your name on it at the time. But later on, maybe you can put your name on it, you know, when you leave the institution."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="What wouldn't you accept? What wouldn't you publish? What leak wouldn't you publish?"/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: What wouldn't you accept? What wouldn't you publish? What leak wouldn't you publish?"/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="Unlike every other news organization, we say precisely, in policy, what we will and will not accept for the material that we publish. So we say to whistleblowers, “We will take material that hasn't appeared before, that has some force suppressing it, legal or threat of volence or being fired, and that is of diplomatic, political, ethical or historical significance. And that you didn't write yourself.” Provided it fits that, we will publish it. Now, we might go through some harm minimization process in the interim. The only form that that has taken is, as an example, is the British National Party, when we published their secret membership list, we contacted all these people ahead of time and we said, “We're going to publish this in a few days. We're giving you the heads-up, just in case, you know, your telephone number being public and so on causes problems, you go and sort it out.”"/>
             <para PARENT="Default Paragraph Style"/>
@@ -873,38 +883,38 @@
             <ITEXT CH="So that has always worked so far. We're aware of no incidents where anyone has come to any sort of physical harm as a result of anything we have published. We are aware of quite a few results where people have been fired or lost elections as a result of things we've published, but that seemed to be on the side of the angels. If at some stage that policy doesn't seem to be working, then we'll create a new policy. Remember, our goal is justice, our means is transparency. We don't confuse these two."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="The propaganda efforts of governments [have] become vast. I read an AP investigation that said the U.S. was spending four point -- had spent -- four point seven billion [dollars] over the last five years on basically winning hearts and minds, not of the enemy, but of its own people."/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: The propaganda efforts of governments [have] become vast. I read an AP investigation that said the U.S. was spending four point -- had spent -- four point seven billion [dollars] over the last five years on basically winning hearts and minds, not of the enemy, but of its own people."/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="Yep, yep."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="I mean, this kind of information war and Petraeus, General Petraeus in his counterinsurgency manual refers to wars of perception in which the media is one of the weapons. So information war has never been more important, but what happens when WikiLeaks runs into the United Kingdom which has some of the most draconian secrecy laws in the world, such as the Official Secrets Act? Is it more difficult here to mine information?"/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: I mean, this kind of information war and Petraeus, General Petraeus in his counterinsurgency manual refers to wars of perception in which the media is one of the weapons. So information war has never been more important, but what happens when WikiLeaks runs into the United Kingdom which has some of the most draconian secrecy laws in the world, such as the Official Secrets Act? Is it more difficult here to mine information?"/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="We haven't found a problem publishing U.K. information. I mean, when we look at the Official Secrets Act-labeled documents, we see they state that it is an offense to retain the information, and it is an offense to destroy the information, so the only possible outcome is that we have to publish the information."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="And that's what you've done."/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: And that's what you've done."/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="Which we have done on many, many occasions."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="I noticed, one of those that I had a personal interest in, was one that ... from the Ministry of Defense. A classified document that equated terrorists with investigative journalists as threats. "/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: I noticed, one of those that I had a personal interest in, was one that ... from the Ministry of Defense. A classified document that equated terrorists with investigative journalists as threats. "/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="And Russian spies."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="And Russian spies."/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: And Russian spies."/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="Yeah, as in fact, in many sections of that report, investigative journalists are the number one threat to the information security of the Ministry of Defense. That was a two thousand-page document on how to stop leaks, by the Ministry of Defense. Which we leaked."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Standard"/>
-            <ITEXT CH="I don't know whether to be offended or honored."/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="JP: I don't know whether to be offended or honored."/>
+            <para PARENT="Default Question"/>
             <para PARENT="Standard"/>
             <ITEXT CH="Well, it's nice to be having an impact."/>
             <para PARENT="Default Paragraph Style"/>
@@ -1455,45 +1465,45 @@
             <para PARENT="Meta-Data"/>
             <para PARENT="Meta-Data"/>
             <para PARENT="Meta-Data"/>
-            <ITEXT CH="Conversations with Julian Assange"/>
+            <ITEXT FONT="Inconsolata Medium" CH="Conversations with Julian Assange"/>
             <para PARENT="Meta-Data"/>
-            <ITEXT FONTSIZE="11" CH="Editors:"/>
-            <ITEXT CH=" Manuel Schmalstieg, Adrian Voight"/>
+            <ITEXT FONT="Inconsolata Medium" FONTSIZE="11" CH="Editors:"/>
+            <ITEXT FONT="Inconsolata Medium" CH=" Manuel Schmalstieg, Adrian Voight"/>
             <para PARENT="Meta-Data"/>
-            <ITEXT FONTSIZE="11" CH="Design:"/>
-            <ITEXT CH=" Manuel Schmalstieg"/>
+            <ITEXT FONT="Inconsolata Medium" FONTSIZE="11" CH="Design:"/>
+            <ITEXT FONT="Inconsolata Medium" CH=" Manuel Schmalstieg"/>
             <para PARENT="Meta-Data"/>
-            <ITEXT FONTSIZE="11" CH="Cover Image:"/>
+            <ITEXT FONT="Inconsolata Medium" FONTSIZE="11" CH="Cover Image:"/>
             <para PARENT="Meta-Data"/>
-            <ITEXT FONTSIZE="11" CH="Printer:"/>
-            <ITEXT CH=" ..............................."/>
+            <ITEXT FONT="Inconsolata Medium" FONTSIZE="11" CH="Printer:"/>
+            <ITEXT FONT="Inconsolata Medium" CH=" ..............................."/>
             <para PARENT="Meta-Data"/>
-            <ITEXT FONTSIZE="11" CH="Publisher:"/>
-            <ITEXT CH=" Greyscale Press"/>
+            <ITEXT FONT="Inconsolata Medium" FONTSIZE="11" CH="Publisher:"/>
+            <ITEXT FONT="Inconsolata Medium" CH=" Greyscale Press"/>
             <para PARENT="Meta-Data"/>
-            <ITEXT FONTSIZE="11" CH="ISBN:"/>
-            <para PARENT="Meta-Data"/>
-            <para PARENT="Meta-Data"/>
-            <ITEXT CPARENT="Default Bold" CH="Contact"/>
-            <para PARENT="Meta-Data"/>
-            <ITEXT FONTSIZE="11" CH="Greyscale Press"/>
-            <para PARENT="Meta-Data"/>
-            <ITEXT FONTSIZE="11" CH="phone:"/>
-            <para PARENT="Meta-Data"/>
-            <ITEXT CH="email: editor at greyscalepress.com"/>
-            <para PARENT="Meta-Data"/>
-            <ITEXT FONTSIZE="11" CH="web: http://www.greyscalepress.com"/>
+            <ITEXT FONT="Inconsolata Medium" FONTSIZE="11" CH="ISBN:"/>
             <para PARENT="Meta-Data"/>
             <para PARENT="Meta-Data"/>
-            <ITEXT FONTSIZE="11" CH="The source files of this publication can be downloaded freely at:"/>
+            <ITEXT CPARENT="Default Bold" FONT="Inconsolata Medium" CH="Contact"/>
             <para PARENT="Meta-Data"/>
-            <ITEXT CH="https://github.com/greyscalepress/conversations-with-julian-assange"/>
+            <ITEXT FONT="Inconsolata Medium" FONTSIZE="11" CH="Greyscale Press"/>
+            <para PARENT="Meta-Data"/>
+            <ITEXT FONT="Inconsolata Medium" FONTSIZE="11" CH="phone:"/>
+            <para PARENT="Meta-Data"/>
+            <ITEXT FONT="Inconsolata Medium" CH="email: editor at greyscalepress.com"/>
+            <para PARENT="Meta-Data"/>
+            <ITEXT FONT="Inconsolata Medium" FONTSIZE="11" CH="web: http://www.greyscalepress.com"/>
             <para PARENT="Meta-Data"/>
             <para PARENT="Meta-Data"/>
-            <ITEXT FONTSIZE="11" CH="Supported by:"/>
+            <ITEXT FONT="Inconsolata Medium" FONTSIZE="11" CH="The source files of this publication can be downloaded freely at:"/>
+            <para PARENT="Meta-Data"/>
+            <ITEXT FONT="Inconsolata Medium" CH="https://github.com/greyscalepress/conversations-with-julian-assange"/>
             <para PARENT="Meta-Data"/>
             <para PARENT="Meta-Data"/>
-            <ITEXT FONTSIZE="11" CH="Thanks to:"/>
+            <ITEXT FONT="Inconsolata Medium" FONTSIZE="11" CH="Supported by:"/>
+            <para PARENT="Meta-Data"/>
+            <para PARENT="Meta-Data"/>
+            <ITEXT FONT="Inconsolata Medium" FONTSIZE="11" CH="Thanks to:"/>
             <para PARENT="Meta-Data"/>
             <PageItemAttributes/>
         </PAGEOBJECT>

@@ -1,5 +1,13 @@
 # List of sources: #
 
+## Julian Assange at Oslo Freedom Forum ##
+Date of recording: April 2010, Oslo, Norway
+URL (transcript):  <https://docs.google.com/document/pub?id=1t8ZyXKI3C2cuCLdkQ2etrhy4DmyLEFABqThx4L8Xdfg>
+URL (video): <http://www.youtube.com/watch?v=qDvfQ5gZ-Jw>
+URL (video alt): <https://vimeo.com/17395875>
+
+***
+
 ## Julian Assange interviewed by Hans Lysglimt ##
 Interviewer: Hans Lysglimt (@lysglimt)
 Date of recording: April 26, 2010
@@ -7,6 +15,16 @@ Date of publication: December 9, 2010
 URL (video): <https://vimeo.com/17641356> (01h:04m:07s)
 URL (transcript): <http://www.farmann.no/?p=1627>
 Notes: Recorded during Oslo Freedom Forum 2010
+
+***
+
+## Julian Assange Interviewed by Richard Stengel ##
+Interviewer: Richard Stengel (TIME managing editor)
+Date of recording: November 30, 2010
+Date of publication: December 01, 2010
+URL (audio): <http://pdl-stream.timeinc.net/time/audio/2010/assange_audio_120110_dl.mp3>
+URL (transcript): <http://www.time.com/time/printout/0,8816,2034040,00.html>
+Notes: Interview conducted via Skype.
 
 ***
 
@@ -32,14 +50,14 @@ Notes: Published in e-flux Journal issue #25, May 2011
 
 ***
 
-## "WikiSecrets" Julian Assange Full Interview Footage ## 
-Interviewer: Martin Smith, Frontline/Public Broadcasting Service (PBS)
-Date of recording: April 04, 2011
-Date of publication: May 24, 2011
-URL (video): <https://vimeo.com/24188114> (55m:26s)
-URL (transcript): <http://wikileaks.org/WikiSecrets-Julian-Assange-Full.html>
+## Julian Assange speaking to The Cambridge Union Society ##
+Date of recording: March 15, 2011
+URL (video): <http://www.youtube.com/watch?v=gkSPfBl5GV0> (57:15s)
+URL (video alternate): <https://vimeo.com/29874784>
+Note: Cambridge Union Society is one of the oldest student debating societies. It has previously hosted Winston Churchill, the Dalai Lama and Ronald Reagan.
 
 ***
+
 ## Times Now (India) Julian Assange Interview ##
 Interviewer: Arnab Goswami, TIMES NOW's Editor-in-Chief
 Date of recording: February 27, 2011
@@ -47,6 +65,15 @@ Date of publication: April 26, 2011
 URL (video part 1): <http://www.timesnow.tv/The-Julian-Assange-Interview-1/videoshow/4371560.cms> (16m:42s)
 URL (video part 2): <http://www.timesnow.tv/The-Julian-Assange-Interview-2/videoshow/4371561.cms> (18:34s)
 URL (transcript): <http://www.timesnow.tv/The-Julian-Assange-Interview/articleshow/4371553.cms>
+
+***
+
+## "WikiSecrets" Julian Assange Full Interview Footage ## 
+Interviewer: Martin Smith, Frontline/Public Broadcasting Service (PBS)
+Date of recording: April 04, 2011
+Date of publication: May 24, 2011
+URL (video): <https://vimeo.com/24188114> (55m:26s)
+URL (transcript): <http://wikileaks.org/WikiSecrets-Julian-Assange-Full.html>
 
 ***
 
@@ -71,11 +98,18 @@ with Slovenian philosopher Slavoj Žižek, moderated by *Democracy Now!*’s Amy
 
 ***
 
-## Julian Assange: The Rolling Stone Interview ##
-Interviewer: Michael Hastings (Rolling Stone)
-Date of recording: "a few days before Christmas"
-Date of publication: February 02, 2012
-URL: <http://www.rollingstone.com/politics/news/julian-assange-the-rolling-stone-interview-20120118?print=true>
+## Hay Festival Of Literature ##
+Date: July 04, 2011
+URL (transcript): <http://www.scribd.com/doc/57103169/>
+Notes: "This is far from an exact transcript. I was not able to keep up with the 
+conversation completely." Transcript by @m_cetera
+
+***
+
+## WikiLeaks Press Conference on Visa/MasterCard blockade ##
+Date of recording: July 14, 2011
+URL (transcript): <http://www.scribd.com/doc/60203337/>
+Notes: Transcript by @m_cetera
 
 ***
 
@@ -87,12 +121,32 @@ URL: <http://www.youtube.com/watch?v=esnypOKpBgs> (3m:51s)
 
 ***
 
+## Julian Assange: Walkley Award acceptance speech ##
+Date of recording: November 27, 2011
+Date of publication: November 28, 2011
+Transcription by: mm_cetera 
+URL (transcript):<http://www.scribd.com/doc/73989892/>
+URL (video): <http://www.youtube.com/watch?v=OoPea9Muqko> (3m:51s)
+Note: Transcript of Julian Assange's acceptance speech for the Walkey Award for 
+outstanding contribution to journalism. Julian Assange pre-recorded his 
+acceptance speech, which was played at the award ceremony in Brisbane.
+
+***
+
+## Julian Assange: The Rolling Stone Interview ##
+Interviewer: Michael Hastings (Rolling Stone)
+Date of recording: "a few days before Christmas"
+Date of publication: February 02, 2012
+URL: <http://www.rollingstone.com/politics/news/julian-assange-the-rolling-stone-interview-20120118?print=true>
+
+***
+
 ## The many faces of Julian Assange ##
 Date of broadcast: 29 March 2012
 Interviewer: Norman Swan (ABC RadioNational, Australia)
 URL (transcript): <http://wlcentral.org/node/2525>
 URL (audio): <http://www.abc.net.au/radionational/programs/latenightlive/the-many-faces-of-julian-assange/3913630>
-Note: "The editor-in-chief of WikiLeaks speaks about his time under house arrest and 
-his aspirations for a seat in the Australian Senate."
+Note: The editor-in-chief of WikiLeaks speaks about his time under house arrest and 
+his aspirations for a seat in the Australian Senate.
 
 ***

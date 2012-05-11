@@ -33,6 +33,13 @@ ehthumbs.db
 Icon?
 Thumbs.db
 
+# Media files #
+###################
+*.mov
+*.flv
+*.mp4
+*.mp3
+
 # Temporary files #
 ###################
 *.autosave
