@@ -1,0 +1,7 @@
+Notes about styles:
+
+
+Main titles:
+Paragraph-Style: H2-Title
+
+***
